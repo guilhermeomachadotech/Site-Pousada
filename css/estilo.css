@@ -1,0 +1,265 @@
+/*home*/
+body{
+    background-color:#abd0d2;
+    font-family: Century Gothic;
+    overflow-x: hidden;
+}
+/* .imgLogo{
+    width:50%;  
+} */
+header{
+    background-color:#a9dfe2;
+}
+.container-fluid{
+    padding:0;
+}
+.nomePousada{
+    text-align:center;
+    position:relative;
+    right:10%;
+    bottom:15%;
+    /* top:25%; */
+    font-size:350%;
+    font-weight:bolder;
+    color:#cc8969;
+    text-transform:uppercase;
+    
+}
+nav {
+    background-color:#6dacb2;
+}
+ul li a{
+    font-size:20px;
+    color:#484c4c;
+    font-weight:bolder;
+}
+ul li a:hover{
+    background-color:#2f5d75;
+    color:#e8e7e4;
+}
+.Conteudo{
+    background-color:#abd0d2;
+    flex-grow:1;
+}
+.textoPaisagem {
+    font-weight:bolder;
+    font-size:40px;
+    color:#c76c42;;
+}
+.nossasAcomodacoes{
+    margin-top:1%;
+    margin-bottom:1%;
+    text-align:center;
+}
+.textoNA {
+    font-weight:bolder;
+    font-size:30px;
+    color:#E07441;
+}
+.suite{
+    padding-left:5%;
+    padding-right:7%;
+
+}
+.cardSuite {
+    background-color: #e8e7e4;
+}
+.textoNome{
+    font-size:25px;
+    color:#E07441;
+    font-weight:bolder;
+}
+.textoPreco{
+    color:#E07441;
+    font-size:20px;
+}
+footer{
+    
+    background-color:#e4c18c;
+    padding-bottom:1%;
+}
+.textoFooter{
+    padding-top:1% ;
+    color:white;
+    text-align:center;
+}
+.textoEndereco{
+    font-size:25px;
+}
+.textoEmail{
+    font-size:25px;
+}
+/**/
+/*galeria*/
+
+.txtGaleria{
+    text-align:center;
+    color:#E07441;
+    font-size:30px;
+    font-weight:bolder;
+}
+.txtSubtitulosGaleria{
+    margin-top:1%;
+    margin-bottom:1%;
+    text-align:center;
+    color:#E07441;
+    font-size:25px;
+}
+.imagensSuites{
+    height:2px;
+}
+.margin{
+    padding-left:20px;
+}
+.imgLightBox{
+    padding-left:5%;
+    padding-right:5%;
+}
+/**/
+/*Diárias*/
+
+.txtOrcamento{
+    text-align:center;
+    color:#E07441;
+    font-size:30px;
+    font-weight:bolder;
+}
+.form{
+    margin-left:2%;
+    margin-right:2%;
+    margin-top:1%;
+    color:#c76c42;
+}
+.txtCentralizado{
+    text-align:center;
+}
+.txtSlcSuite{
+    font-size:25px;
+}
+.txtNumHospede{
+    font-size:25px;
+}
+.txtNumDiarias{
+    font-size:25px;
+}
+.txtRefeicoes{
+    font-size:25px;
+    margin-top:1%;
+    margin-bottom:1%;
+
+}
+.alRadio{
+    padding-right:1%;
+    padding-left:1%;
+}
+.txtRadio{
+    font-size:23px;
+}
+.txtServicosAdicionais{
+    font-size:25px;
+    margin-top:1%;
+    margin-bottom:1%;
+}
+.txtCheckbox{
+    font-size:23px;
+}
+.alBotao{
+    margin-top:2%;
+    padding-left:5%;
+}
+.botaoCalcular{
+    background-color:#398c2d;
+    color:#e4c18c;
+}
+.botaoCalcular:hover{
+    background-color: #163b11;
+    color:white;
+}
+.txtResumo{
+    text-align:center;
+    font-weight: bolder;
+    margin-top:1%;
+    margin-bottom:1%;
+    font-size:30px;
+}
+.txtTotal{
+    padding-left:32%;
+    text-align:center;
+    font-size:25px;
+    margin-bottom: 2%;
+    margin-top:3%;
+    color:#484c4c;
+
+}
+.txtListaResumo{
+    color:#484c4c;
+    margin-bottom:2%;
+    margin-top:3%;
+    text-align:center;
+    font-size:25px;
+}
+
+/**/
+/*Conheça a cidade*/
+.txtConhecaCi{
+    text-align:center;
+    color:#E07441;
+    font-size:30px;
+    font-weight:bolder;
+    margin-bottom:1%;
+}
+.txtSaoSebastiao{
+    font-weight:bolder;
+    text-align:center;
+    color:#E07441;
+    font-size:30px;
+    margin-bottom:2%;
+}
+.txtDescSB{
+    color:#E07441;
+    font-size:23px;
+    text-align:center;
+}
+.txtPontosTuristicos{
+    color:#E07441;
+    font-size:30px;
+    text-align:center;
+    margin-bottom:1%;
+    margin-top:1%;
+}
+.txtTituloCC{
+    text-align:center;
+    color:#E07441;
+    font-size:25px;
+    font-weight:bolder;
+}
+.txtDescPonto{
+    text-align:center;
+    font-size:19px;
+    color:#E07441;
+    padding-top:2%;
+}
+.ponto1{
+    background-color: #e8e7e4;
+    padding-bottom: 2%;
+    
+}
+.outrosPontos{
+    background-color: #e8e7e4;
+    padding-bottom:6.1%;
+}
+.imgCH{
+    padding-left:8%;
+}
+.alFooter{
+    position:fixed;
+    bottom:0;
+    width:100%;
+}
+.alTxtSb{
+    padding-right:5%;
+}
+.outrosPontos3{
+    background-color: #e8e7e4;
+    padding-bottom:2%;
+}
